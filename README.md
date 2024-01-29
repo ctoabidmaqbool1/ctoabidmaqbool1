@@ -3,6 +3,16 @@
 - 🌱 I’m activitively working on Java & Javafx and related tech & TiddlyWiki;
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
+
+    - https://github.com/ctoabidmaqbool1
+    - https://github.com/ctoabidmaqbool
+    - https://www.facebook.com/ctoabidmaqbool
+    - https://www.facebook.com/abidmaqboolofficial
+    - https://www.linkedin.com/in/ctoabidmaqbool
+    - https://twitter.com/ctoabidmaqbool
+    - https://www.instagram.com/ctoabidmaqbool
+    - https://stackoverflow.com/users/10606381/cto-abid-maqbool
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
